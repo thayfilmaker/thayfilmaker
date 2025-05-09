@@ -5,7 +5,7 @@
 </div>
 
 
-<img src="https://github.com/thayfilmaker/imagens/blob/main/IMG_7615%202.PNG" width="1000" height="250" />
+<img src="https://github.com/thayfilmaker/imagens/blob/main/IMG_7615%202.PNG" width="900" height="300" />
 
 <!-- YouTube e Instagram lado a lado -->
 <div>
