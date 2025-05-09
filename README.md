@@ -23,7 +23,7 @@
 <!-- Logos das Tecnologias alinhados lado a lado -->
 <div>
   <img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="50"/>
+  <img src="https://img.icons8.com/?size=100&id=fG5Tnj4ARIoI&format=png&color=000000" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="50"/> 
 </div>
 
