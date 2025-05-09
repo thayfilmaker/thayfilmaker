@@ -1,6 +1,6 @@
 <!-- 42 Lisboa e Pato da 42 lado a lado -->
 <div>
-  <img src="https://www.42lisboa.com/wp-content/uploads/2024/08/42-Lisboa_Horizontal.png" width="50"/>
+  <img src="https://www.42lisboa.com/wp-content/uploads/2024/08/42-Lisboa_Horizontal.png" width="100"/>
   <p><strong>42 Lisboa Student</strong></p>
 </div>
 
