@@ -17,9 +17,13 @@
   </a>
 </div>
 
+
+
+
+
 <!-- Logos das Tecnologias alinhados lado a lado -->
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/C_Programming_Language.svg" width="50"/>
+  <img src="https://w7.pngwing.com/pngs/724/306/png-transparent-c-logo-c-programming-language-icon-letter-c-blue-logo-computer-program-thumbnail.png" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="50"/> 
 </div>
