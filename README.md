@@ -25,5 +25,6 @@
   <img src="https://img.icons8.com/color/600/c-programming.png" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="50"/> 
+  <img src="https://www.entelco.com.br/blog/wp-content/uploads/2017/08/GPON-Fiberhome-3.jpg"width="50"/> 
 </div>
 
