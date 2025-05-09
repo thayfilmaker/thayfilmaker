@@ -1,7 +1,6 @@
 <!-- 42 Lisboa e Pato da 42 lado a lado -->
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/42_Logo.svg" width="50" alt="42 Lisboa"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/42_pato.svg" width="50" alt="Pato 42"/>
+  <img src="https://www.42lisboa.com/wp-content/uploads/2024/08/42-Lisboa_Horizontal_branco.png" width="50"/>
   <p><strong>42 Lisboa Student</strong></p>
 </div>
 
