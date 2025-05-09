@@ -20,8 +20,7 @@
 
 
 
-
-<div style="margin-top: 500px;"></div>
+<div style="height: 300px;"></div>
 
 <!-- Logos das Tecnologias alinhados lado a lado -->
 <div>
