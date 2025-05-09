@@ -16,17 +16,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram" alt="Instagram"/>
   </a>
 </div>
-
-
-
-
-
-
-
-
-
-
-
+<div style="margin-top: 20px;">
 
 <!-- Logos das Tecnologias alinhados lado a lado -->
 <div>
