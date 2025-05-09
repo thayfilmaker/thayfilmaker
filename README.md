@@ -1,8 +1,12 @@
 <!-- 42 Lisboa e Pato da 42 lado a lado -->
 <div>
   <img src="https://www.42lisboa.com/wp-content/uploads/2024/08/42-Lisboa_Horizontal.png" width="100"/>
-  <p><strong>Thay</strong></p>
+<br><br>
+  <img src="https://img.icons8.com/?size=100&id=NI3B6i3Tf6gb&format=png&color=000000"width="50"/>
+  <p><strong>THAY</strong></p>
+  
 </div>
+
 
 <img src="https://github.com/thayfilmaker/imagens/blob/main/IMG_7615%202.PNG" width="900" height="300" />
 
