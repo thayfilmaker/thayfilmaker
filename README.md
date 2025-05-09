@@ -21,6 +21,13 @@
 
 
 
+
+
+
+
+
+
+
 <!-- Logos das Tecnologias alinhados lado a lado -->
 <div>
   <img src="https://img.icons8.com/color/600/c-programming.png" width="50"/>
