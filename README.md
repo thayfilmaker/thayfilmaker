@@ -30,7 +30,4 @@
 </div>
 
 <br><br><br>
-<div>
-  <img src="https://www.entelco.com.br/blog/wp-content/uploads/2017/08/GPON-Fiberhome-3.jpg"width="50"/> 
-  <img src="https://logospng.org/wp-content/uploads/intelbras.png"width="50"/>
-  </div>
+
