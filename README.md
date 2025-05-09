@@ -1,6 +1,6 @@
 <!-- 42 Lisboa e Pato da 42 lado a lado -->
 <div>
-  <img src="https://www.42lisboa.com/wp-content/uploads/2024/08/42-Lisboa_Horizontal_branco.png" width="50"/>
+  <img src="https://www.42lisboa.com/wp-content/uploads/2024/08/42-Lisboa_Horizontal.png" width="50"/>
   <p><strong>42 Lisboa Student</strong></p>
 </div>
 
@@ -21,8 +21,5 @@
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/C_Programming_Language.svg" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_%282019%29.svg" width="50"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="50"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/SAP_2020_logo.svg" width="50"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Mikrotik_logo.svg" width="50"/>
 </div>
