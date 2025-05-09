@@ -23,7 +23,7 @@
 
 <!-- Logos das Tecnologias alinhados lado a lado -->
 <div>
-  <img src="https://w7.pngwing.com/pngs/724/306/png-transparent-c-logo-c-programming-language-icon-letter-c-blue-logo-computer-program-thumbnail.png" width="50"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.m.wikipedia.org%2Fwiki%2FFicheiro%3AISO_C%252B%252B_Logo.svg&psig=AOvVaw2hIH_5QpxYw2-KX4ZcF-tc&ust=1746863233720000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjwiObylY0DFQAAAAAdAAAAABAg![image](https://github.com/user-attachments/assets/e169e15b-01dc-4ea1-9a5e-c771d3382e37)" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="50"/> 
 </div>
